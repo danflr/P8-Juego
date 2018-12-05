@@ -1,0 +1,12 @@
+C:\Users\dany-\source\repos\P8-JuegoLoco\P8-JuegoLoco\bin\Debug\P8-JuegoLoco.exe.config
+C:\Users\dany-\source\repos\P8-JuegoLoco\P8-JuegoLoco\bin\Debug\P8-JuegoLoco.exe
+C:\Users\dany-\source\repos\P8-JuegoLoco\P8-JuegoLoco\bin\Debug\P8-JuegoLoco.pdb
+C:\Users\dany-\source\repos\P8-JuegoLoco\P8-JuegoLoco\obj\Debug\P8-JuegoLoco.csprojAssemblyReference.cache
+C:\Users\dany-\source\repos\P8-JuegoLoco\P8-JuegoLoco\obj\Debug\P8_JuegoLoco.Form1.resources
+C:\Users\dany-\source\repos\P8-JuegoLoco\P8-JuegoLoco\obj\Debug\P8_JuegoLoco.frmTwoPlayers.resources
+C:\Users\dany-\source\repos\P8-JuegoLoco\P8-JuegoLoco\obj\Debug\P8_JuegoLoco.Properties.Resources.resources
+C:\Users\dany-\source\repos\P8-JuegoLoco\P8-JuegoLoco\obj\Debug\P8-JuegoLoco.csproj.GenerateResource.cache
+C:\Users\dany-\source\repos\P8-JuegoLoco\P8-JuegoLoco\obj\Debug\P8-JuegoLoco.csproj.CoreCompileInputs.cache
+C:\Users\dany-\source\repos\P8-JuegoLoco\P8-JuegoLoco\obj\Debug\P8-JuegoLoco.exe
+C:\Users\dany-\source\repos\P8-JuegoLoco\P8-JuegoLoco\obj\Debug\P8-JuegoLoco.pdb
+C:\Users\dany-\source\repos\P8-JuegoLoco\P8-JuegoLoco\obj\Debug\P8_JuegoLoco.frmThreePlayers.resources
